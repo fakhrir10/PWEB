@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  background: #ebf9fb;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+.komentar {
+  text-align: center;
+  font-style: unset;
+}
+
+.tombol_input {
+  background: #2aa7e2;
+  color: white;
+  font-size: 11pt;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+}
